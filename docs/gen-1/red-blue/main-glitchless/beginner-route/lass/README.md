@@ -138,6 +138,7 @@ Route 3 grass:
 
 Menu before walking in front of the Rocket:
 - Toss any remaining Poke Balls (ONLY IF YOU HAVE A PARAS)
+- Toss Antidote (if you have it)
 - Use Rare Candy
 - Teach TM12 (Water Gun) over Tackle (slot 2)
 - Use Moon Stone
@@ -201,6 +202,7 @@ If you still need Paras: [Post Nerd Backup Paras](../../resources/postnerd-backu
 ## Route 25
 
 **Bottom Hiker:**
+- Swap Water Gun to Slot 1
 - WG
 
 **Lass:**
@@ -215,7 +217,7 @@ If you still need Paras: [Post Nerd Backup Paras](../../resources/postnerd-backu
 
 **Lass:**
 - MP
-	- Teach Thrash over Water Gun (slot 2)
+	- Teach Thrash over Water Gun (slot 1)
 - Thrash
 
 Menu after Bill:
@@ -398,7 +400,7 @@ Take the elevator and get HM02 (Fly)
 Menu after getting Fly:
 - Swap slot 2 with TM07
 - Use a Super Repel
-- Teach TM48 (Rock Slide) over Mega Punch (slot 1)
+- Teach TM48 (Rock Slide) over Mega Punch (slot 2)
 - Swap slot 3 with X Accs
 - Teach HM02 to the bird
 - Use Fly to go to Lavender
@@ -418,6 +420,7 @@ Note: From this point on you have 2 Revives which means deaths aren't as scary, 
 [Tower Movement Map](https://imgur.com/gallery/Yf2tY3u)
 
 **Channeler 1:**
+- Swap Rock Slide to Slot 1
 - RS x2
 
 - Get the Elixers [here](http://gunnermaniac.com/pokeworld?map=145#12/10) and [here](http://gunnermaniac.com/pokeworld?map=146#4/12)
