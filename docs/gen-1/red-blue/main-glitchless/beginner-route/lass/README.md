@@ -35,20 +35,24 @@
 - Name yourself and rival 'A'
 - Pick Squirtle and name it 'A'
 
+- Pick up Potion in PC (spam A)
+
 **Rival 1:**
 - Tail Whip + spam Tackle
 
 ## Viridian City
 
 Get XP from one encounter in Route 1
-- During the parcel quest kill one encounter from a level 2 Rat, level 3 Rat, or a level 2 Pidgey. You can fight level 3 Pidgeys but you will take a bit of damage if you have a lower attack (10-11 at level 6) Squirtle. This early XP will get you Bubble for Brock
+- level 2 Rat
+- level 3 Rat
+- level 2 Pidgey.
+- You can fight level 3 Pidgeys but you will take a bit of damage if you have a lower attack (10-11 at level 6) Squirtle. This early XP will get you Bubble for Brock
 
 Shopping:
 - 4 Poke Balls (This does require you to get consistent at manip yoloballs, you can buy 5 and 1 less Potion later on)
 
 Nidoran Manip:
 - [Optimal (HIGHLY RECOMMENDED)](../../resources/nido-manip.md)
-- [1 A Press](https://youtu.be/qPzSWHyMuW8)
 
 Get the [hidden Tree Potion](https://gunnermaniac.com/pokeworld?map=1#54/166)
 
@@ -58,6 +62,7 @@ Get the [hidden Tree Potion](https://gunnermaniac.com/pokeworld?map=1#54/166)
 
 **Weedle Guy:**
 - Tail Whip x2 + spam Tackle [1-6 Potion]
+- KEEP TRACK OF HP
 - Check your leveled up stats after this fight, if you have 13 special you have bad special, if you have 14 or 15 you have good special
 
 If you were poisoned do the following:
@@ -67,8 +72,9 @@ If you were poisoned do the following:
 
 ## Pewter City
 
+- Walk up past the guy into mart
 Shopping:
-- 8 Potions
+- 8 Potions (2nd item)
 
 If you weren't poisoned do the following:
 - Swap Nidoran and Squirtle (Nidoran should be the lead pokemon)
@@ -86,6 +92,11 @@ If you weren't poisoned do the following:
 Options: Battle Style to Set before leaving Brock's gym
 
 ## Route 3
+
+Nido move order:
+Leer
+Tackle
+Horn Attack
 
 **Bug Catcher 1:**
 - Caterpie: Leer + HA x2 (+ Tackle)
@@ -113,6 +124,7 @@ Menu:
 	- HA x2
 - Metapod:
 	- HA x2 + Tackle
+ - KEEP TRACK OF HP
 
 Menu: Potion to 22+
 
@@ -157,12 +169,21 @@ Talk to the Nerd
 
 If you still need Paras: [Post Nerd Backup Paras](../../resources/postnerd-backup-paras.md)
 
+LEAVING MOON: go right, down the opening, go right all the way, up the opening, right all the way, hop down, go right between the fencing, all the way right into the Center (dodge guy in front)
+
 ## Nugget Bridge
 
 - Use the center
 - Get IT (Instant Text)
 	- You talk to the bike salesman and mash B through his text, this will set all text to instant. Things that kill instant text are Yes/No textboxes, opening the menu in and out of fights.
 - Pick up the [hidden Rare Candy](http://gunnermaniac.com/pokeworld?map=1#235/44)
+
+
+Nido move order:
+Mega Punch
+Water Gun
+Horn Attack
+Poison Sting
 
 **Bridge Rival:**
 - Pidgeotto: HA x3 (if you get some bad rolls use MP to kill)
@@ -229,6 +250,13 @@ Menu after Bill:
 - Use the center
 - Get IT again
 
+
+Nido move order:
+Thrash
+Mega Punch
+Horn Attack
+Poison Sting
+
 **Dig Rocket:**
 - Thrash
 
@@ -238,11 +266,17 @@ Menu after Bill:
 **Misty:**
 - Thrash
 	- If you are ever alive and confused swap to another poke (bird) and let it die
+- KEEP TRACK OF HP
 
-If 1-15 after Misty (or 16-24 and you want to play safely):
+ONLY if 1-15 after Misty (or 16-24 and you want to play safely):
 - Potion
 - Teach TM11 (Bubblebeam) over PS (slot 4)
 - Get IT again
+
+GO back towards rocket house
+Go down the opening, keep going down following the road
+Go inside the house at the bottom, take stairs out
+Walk straight down grass, then dodge the trainer on the right (any grass tile dodges him)
 
 ## Vermilion City
 
@@ -251,10 +285,23 @@ If 1-15 after Misty (or 16-24 and you want to play safely):
 
 **Jr Trainer M:**
 - Thrash
+- KEEP TRACK OF HP
 
 If 1-12 after this fight:
 - Potion
 - Teach TM11 (Bubblebeam) over PS (slot 4)
+
+Inside City:
+Walk all the way down and turn right at the Mart, then go down the bridge (walk down left, walk left top side)
+Inside Boat:
+Walk along bottom row to dodge trainer, then enter stairs at the left, walk straight down, turn right at the stairs, go up on left side (under stairs)
+
+
+Nido move order:
+Thrash
+Mega Punch
+Horn Attack
+Bubblebeam
 
 **Boat Rival:**
 - Pidgeotto:
@@ -278,10 +325,15 @@ Depending of your HP, you may fight the Gentleman in [this room](https://gunnerm
 | 2-8   | Do Gentleman                            |
 | 9-24  | Do Gentleman if you want to play safely |
 
+Go back up bridge (walk along top, then up the left side going up)
+Go left after bridge and go inside mart
+
 Shopping:
 - Buy:
 	- 6 Repels
 	- 4 Parlyz Heals
+
+Walk left towards cut bush
 
 Menu before Cut bush:
 - Teach TM11 (Bubblebeam) over PS (slot 4)
@@ -304,6 +356,7 @@ Surge Cans Manip:
 - Raichu:
 	- If you are confused and dead to a self hit, swap to your bird or Squirtle
 
+Leave gym, cut tree back out, go to the left house right above
 Get the Bike Voucher and use Dig on Paras
 
 ## Cerulean City
@@ -311,8 +364,16 @@ Get the Bike Voucher and use Dig on Paras
 - Get the Bike
 - Menu:
 	- Swap (using select) slot 1 with the Bike
-	- Teach TM24 (Thunderbolt) over HA (slot 3)
+	- Teach TM24 (Thunderbolt) over HA (slot 3) (cursor will be on Paras!!)
 	- Use the Bike
+
+Bike to the tree on the right, go right all the way, up the opening, right, cut tree, go right and talk to girl from above
+
+Nido Move Order:
+Thrash
+Mega Punch
+Thunderbolt
+Bubblebeam
 
 ## Route 9
 
@@ -321,9 +382,13 @@ Get the Bike Voucher and use Dig on Paras
 - Thrash
 	- If you run out of MP just Thrash, you will be 25% to hit yourself on the last poke
 
+Hop down one ledge, go right, talk to trainer under him
+
 **Bug Catcher:**
 - BB (Thrash if you fought the Gentleman)
 - Thrash
+
+Bike up the opening, go under trainer towards the right, hop ledge and stay on right side, turn right, go under grass and into the opening, down past the house, go left and dodge trainer (2 from the left tiles)
 
 ## Rock Tunnel
 
@@ -360,7 +425,11 @@ After the fight:
 **Jr Trainer F:**
 - Thrash
 
+Bike right after leaving and A press on statue from the left
 Get the [hidden Max Ether](https://gunnermaniac.com/pokeworld?map=21#16/53)
+Go down opening, jump ledge, go under guy and go into opening
+
+Go into city, left at Pokecenter, go into fenced way, bike under girl trainer and talk to bald man
 
 ## Route 8
 
@@ -375,7 +444,10 @@ Get the [hidden Max Ether](https://gunnermaniac.com/pokeworld?map=21#16/53)
 - Get the [hidden Elixer](http://gunnermaniac.com/pokeworld?map=121#21/5)
 - Get the [hidden Nugget](http://gunnermaniac.com/pokeworld?map=121#12/2)
 
+Get on Bike, bike up the opening and towards the left, bike all the way left until reaching the department store
+
 ## Celadon City
+Watch the girl on floor 2 for position, walk opposite of what she does
 
 Shopping:
 - Floor 2:
@@ -396,6 +468,8 @@ Shopping:
 	- Buy 1 X Speeds (3 if you have 0 Potions at this point)
 
 Take the elevator and get HM02 (Fly)
+Bike to the left alley, cut up, go left to top of building entrance
+WALK to fly house
 
 Menu after getting Fly:
 - Swap slot 2 with TM07
