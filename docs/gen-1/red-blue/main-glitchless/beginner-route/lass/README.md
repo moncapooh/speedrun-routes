@@ -49,7 +49,7 @@ Get XP from one encounter in Route 1
 - You can fight level 3 Pidgeys but you will take a bit of damage if you have a lower attack (10-11 at level 6) Squirtle. This early XP will get you Bubble for Brock
 
 Shopping:
-- 4 Poke Balls (This does require you to get consistent at manip yoloballs, you can buy 5 and 1 less Potion later on)
+- 4 Poke Balls
 
 Nidoran Manip:
 - [Optimal (HIGHLY RECOMMENDED)](../../resources/nido-manip.md)
@@ -477,11 +477,10 @@ Menu after getting Fly:
 - Teach TM48 (Rock Slide) over Mega Punch (slot 2)
 - Swap slot 3 with X Accs
 - Teach HM02 to the bird
-- Use Fly to go to Lavender
+- Use Fly to go to Lavender (3 down on map)
 
+Walk right to tower entrance
 ## Lavender Town
-
-Note: From this point on you have 2 Revives which means deaths aren't as scary, so if you die remember to swap to a pokemon, Revive, let the swapped pokemon die and ANY AND ALL X ITEMS ARE GONE. This route has extras so you shouldn't run out of X items, and there will still be some saving since some deaths with Revives are still really slow to come back from if at all.
 
 **Rival:**
 - Pidgeotto:
@@ -521,14 +520,14 @@ Note: From this point on you have 2 Revives which means deaths aren't as scary, 
 
 **Rocket 3:**
 - TB x2
-- Thrash
+- Thrash (slot 2)
 
-Get the Poke Flute and Fly to Celadon City
+Get the Poke Flute and Fly to Celadon City (1 down)
 
 ## Celadon City
 
 - Use the center
-- Bike to Saffron City
+- Bike to Saffron City (go right towards the bike building, give fresh water), get back on Bike, go down city and turn right at first road
 
 ## Saffron City
 
