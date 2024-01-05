@@ -533,22 +533,28 @@ Get the Poke Flute and Fly to Celadon City (1 down)
 
 - Enter Silph Co and take the stairs to floor 5
 - Get the [hidden Elixer](http://gunnermaniac.com/pokeworld?map=210#12/3)
+- Go left and down the alleyway, talk to Rocket 1
 
 **Rocket 1:**
-- Thrash
+- Thrash (slot 2)
 
-Get the Card Key
+Get the Card Key (warp, leave, pick up, warp, leave)
+Use Card key on first gate, take warp in room
+Walk right and up, key on left gate, take bottom warp
+Walk UP and trigger rival scene
 
 **Rival:**
 - Pidgeot:
 	- X Acc
 	- If you were paralyzed on Arbok, use a Parlyz Heal
 	- X Speed
-- HD x5
+- HD x5 (slot 1)
+- KEEP TRACK OF HP
 
 Note: In this split we want to take a bit of damage to do a strat on Koga called Boom Strats
 
 If 1-77, use an Elixer before the next fight
+Walk down after battle and take warp, walk LEFT a tile and walk down and talk to Rocket 2
 
 **Rocket 2:**
 - Cubone:
@@ -563,7 +569,7 @@ If 1-77, use an Elixer before the next fight
 **Giovanni:**
 - X Acc + HD
 - HD
-- BB
+- BB (slot 4)
 - HD
 
 Go back to the elevator and go to the 10th Floor to get [TM26 (Earthquake)](https://gunnermaniac.com/pokeworld?map=234#2/12) and the [Rare Candy](https://gunnermaniac.com/pokeworld?map=234#4/14)
@@ -572,7 +578,7 @@ Use Dig on Paras
 
 ## Celadon City
 
-- Use your Bike and go to Snorlax
+- Use your Bike and go to Snorlax (bike left until the snorlax alley)
 
 Menu before Snorlax:
 - Use a Repel
@@ -592,15 +598,19 @@ Menu:
 - Teach TM26 (Earthquake) over Thrash (slot 2)
 - Use Bike
 
+Go right, cut both trees up, bike into building
+
 [Safari Movement Map](https://imgur.com/gallery/h9KpU3I)
 
 In the Safari Zone:
 - Super Repel on the 2nd map around [this tile](https://gunnermaniac.com/pokeworld?map=217#13/24)
 - Pick up the [Teeth](https://gunnermaniac.com/pokeworld?map=219#19/7) and get Surf
-- After getting Surf, Dig out of the safari and Fly back to Fuschia City
+- After getting Surf, walk out, Dig out of the safari and Fly back to Fuschia City (2 down)
+
+Get on Bike, go left to gym
 
 **Juggler 1:**
-- EQ x4
+- EQ x4 (slot 2)
 
 **Juggler 2:**
 - EQ
@@ -615,22 +625,22 @@ In the Safari Zone:
 
 Menu after Koga:
 - Use all Rare Candies
-- Bike to get Strength
-- Fly to Pallet Town
+- Bike to get Strength (go right, hop, first building)
+- Fly to Pallet Town (first town when flying)
 
 ## Pallet Town
 
 Menu at the bottom of the water:
 - Super Repel
 - Teach HM03 (Surf) to Squirtle
-- Surf
+- Surf (go down, one tile left, down again until first building)
 
 ## Cinnabar Island
 
 - Pick up TM14 (Blizzard)
 - Menu:
 	- Teach HM04 (Strength) to Squirtle over Tackle (slot 1)
-	- Teach TM14 (Blizzard) over BB
+	- Teach TM14 (Blizzard) over BB (slot 4)
 	- Use Repel (THIS IS THE **REPEL** NOT SUPER REPEL)
 - Pick up the [Rare Candy](http://gunnermaniac.com/pokeworld?map=216#10/2)
 - Pick up the [Secret Key](https://gunnermaniac.com/pokeworld?map=216#5/13)
@@ -638,17 +648,19 @@ Menu at the bottom of the water:
 
 ## Celadon City
 
-Bike to the gym
+Bike to the gym (down the brick path, left, down on the granny, right, cut tree)
+Left, up the opening, right instantly to avoid bonking person outside, go inside gym
 
 **Beauty:**
-- Blizz
+- Blizz (slot 4)
 
 **Erika:**
 - EQ
 - Blizz
 - EQ
 
-Fly back to Cinnabar
+Fly back to Cinnabar (2 down)
+Bike right, then straight up into gym
 
 ## Cinnabar Island
 
@@ -658,7 +670,7 @@ Quiz answers: A B B B A B
 - X Acc + EQ
 - HD x3
 
-Dig out and Bike to Sabrina's gym
+Dig out and Bike to Sabrina's gym (bike right, into the bike building), bike up, follow road, up at first opening, enter gym on right side (gym gym)
 
 ## Saffron City
 
@@ -667,7 +679,8 @@ Teleporter puzzle: Top left, Bottom left, Bottom left
 **Sabrina:**
 - EQ x4
 
-Walk back to the teleporter and Dig out and Fly to
+Walk back to the teleporter and Dig out and Fly to Viridian City (1 up)
+Bike left and up into gym
 
 ## Viridian City
 
@@ -696,21 +709,18 @@ Menu after leaving the gym:
 - Bike
 
 **Rival:**
-- X Acc + Blizz + TB
-- HD x2
+- X Acc + Blizz (slot 4) + TB (slot 3)
+- HD x2 (slot 1)
 - X Spec (on Growlithe)
 - HD x3
-	- Note: Only if you had 0 Potions in Celadon and bought 3 X Speeds do the following instead:
-	- X Acc + X Speed + Blizz (+ TB), HD x5
-	- Otherwise, the badge boost from the X Spec on Growlithe allows us to outspeed Alakazam.
 
 ## Victory Road
 
 [Super Repel locations](https://imgur.com/gallery/laeW1PT) and [Victory Road map](https://imgur.com/gallery/vKQYRQZ)
 
 - Pick up the [hidden Max Ether](https://gunnermaniac.com/pokeworld?map=34#8/90) from the water
+- Use a Super Repel right after finishing surf
 - Use a Super Repel one step into the cave
-- Watch a top leaderboard run for how to do the Strength boulder puzzles
 - Use the 2nd Super Repel on [this tile](https://gunnermaniac.com/pokeworld?map=194#5/14) before using Strength
 - After dropping before the last boulder on [this tile](https://gunnermaniac.com/pokeworld?map=194#24/16):
 	- Use Strength
@@ -733,11 +743,11 @@ Before Bruno use a Max Ether on HD
 
 **Bruno:**
 - X Acc + HD x5
+- KEEP TRACK OF HP
 
 Menu before Agatha:
 - 1-18 Super Potion + Potion
 - 19+ Super Potion
-	- If out of Potion, just Super Potion once
 - Rare Candy
 
 **Agatha:**
@@ -751,6 +761,7 @@ Menu before Agatha:
 		- You are slower than the last Gengar, so it will have a turn to use a move on you
 	- If you miss Blizz, but Golbat doesn't use Haze, use Blizz again, or TB if out of Blizzards
 - EQ x3
+- KEEP TRACK OF HP
 
 Menu before Lance:
 - Use Elixer
@@ -777,6 +788,7 @@ If you don't have enough Potions, use the next healing option
 - Dragonair 2: X Spec + Blizz (use X Speed instead if you have one)
 - Aero: TB
 - Dragonite: Blizz
+- KEEP TRACK OF HP
 
 After Lance:
 - Heal to 22+
