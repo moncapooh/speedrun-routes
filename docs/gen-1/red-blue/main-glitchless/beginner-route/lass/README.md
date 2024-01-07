@@ -720,12 +720,11 @@ Menu after leaving the gym:
 
 - Pick up the [hidden Max Ether](https://gunnermaniac.com/pokeworld?map=34#8/90) from the water
 - Use a Super Repel right after finishing surf
-- Use a Super Repel one step into the cave
 - Use the 2nd Super Repel on [this tile](https://gunnermaniac.com/pokeworld?map=194#5/14) before using Strength
+- Use 3rd Super Repel before using strength on 3rd boulder
 - After dropping before the last boulder on [this tile](https://gunnermaniac.com/pokeworld?map=194#24/16):
 	- Use Strength
 	- Use a Max Ether on HD
-	- Super Repel
 	- Bike
 - Optional Safety: Pick up the [Full Restore](http://gunnermaniac.com/pokeworld?map=194#26/7)
 
